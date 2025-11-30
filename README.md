@@ -100,6 +100,8 @@ Sasya-Mitra implements a continuous learning system that improves prediction acc
 2. **Model Retraining**: Models are periodically retrained with collected feedback data
 3. **Accuracy Improvement**: Real feedback leads to better predictions
 
+Deploed at :https://68f086961f19d585f6111585--sasyayojana.netlify.app/
+
 To start the continuous learning scheduler:
 ```bash
 npm run model:schedule-retraining
